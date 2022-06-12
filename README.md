@@ -1,2 +1,2 @@
-# Older-R-Studio-
-Contains Older Intro to R-Studio homework
+# Older R-Studio Introductory Assignmnets
+Older Stats Introductory to R-Studio Assignments.
